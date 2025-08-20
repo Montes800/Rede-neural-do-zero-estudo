@@ -1,4 +1,4 @@
-Estudo de Redes Neurais com PyTorch 🧠🚀
+# Estudo de Redes Neurais com PyTorch 🧠🚀
 
 
 Este repositório contém um projeto de estudo prático focado nos fundamentos de redes neurais. O objetivo é construir e treinar um modelo simples, do zero ✨, usando a biblioteca PyTorch para classificar os dígitos do famoso dataset MNIST.
